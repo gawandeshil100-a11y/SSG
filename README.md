@@ -52,10 +52,6 @@ The digital twins extend traditional dashboards from **“What happened?”** to
 - Modeled lost demand decreased by approximately **14,178 units**.
 - Modeled 90-day profit increased by approximately **183,170**, subject to prototype cost assumptions.
 
-**Project links**
-
-- [Open project folder](./Supply%20Chain%20Intelligence%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/)
-- [Project README](./Supply%20Chain%20Intelligence%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/README.md)
 
 ---
 
@@ -79,10 +75,7 @@ The digital twins extend traditional dashboards from **“What happened?”** to
 - Weighted trip duration decreased from approximately **20.0 to 18.4 minutes**.
 - Sustainability reduced the operational emissions proxy by approximately **24%**.
 
-**Project links**
 
-- [Open project folder](./Urban%20Mobility%20Intelligence%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/)
-- [Project README](./Urban%20Mobility%20Intelligence%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/README.md)
 
 ---
 
@@ -106,10 +99,7 @@ The digital twins extend traditional dashboards from **“What happened?”** to
 - Modeled lost units decreased by approximately **37%**.
 - Blanket discount-led Growth increased revenue but produced an estimated **₹10,009 loss**.
 
-**Project links**
 
-- [Open project folder](./E-Commerce%20Analytics%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/)
-- [Project README](./E-Commerce%20Analytics%20%26%20Digital%20Twin%20%E2%80%94%20Case%20Study/README.md)
 
 ## Portfolio Architecture
 
