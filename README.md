@@ -262,9 +262,10 @@ The digital-twin results in this portfolio are **scenario estimates**, not guara
 
 **Shil Gawande**
 
-- GitHub: [gawandeshil100-a11y](https://github.com/gawandeshil100-a11y)
+- LinkedIn: [shilgawande2004](https://https://www.linkedin.com/in/shilgawande2004/?utm_source=chatgpt.com)
 - Repository: [github.com/gawandeshil100-a11y/cv](https://github.com/gawandeshil100-a11y/cv)
-- Email: `[your-email@example.com]`
+- Email: gawandeshil9@gmail.com
+- Phone no: 9172937014
 
 ---
 
