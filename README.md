@@ -9,9 +9,8 @@ Table of Contents
   - Supply Chain Intelligence
   - Urban Mobility Intelligence
   - E-Commerce Analytics
+- Portfolio Architecture
 - Technology Stack
-- Repository Structure
-- Getting Started
 - Skills Demonstrated
 - Important Modeling Note
 - Contact
@@ -150,42 +149,6 @@ scikit-learn | Experimental segmentation and predictive models
 Power BI | Executive dashboards, KPI monitoring, scenario comparison, and drill-through 
 DOCX documentation | Business report, BRD, FRD, requirements, controls, and acceptance criteria 
 
-Repository Structure
-
-
-├── README.md
-├── Supply Chain Intelligence & Digital Twin — Case Study/
-│   ├── README.md
-│   ├── notebooks/
-│   ├── src/
-│   ├── powerbi/
-│   ├── data/
-│   └── docs/
-├── Urban Mobility Intelligence & Digital Twin — Case Study/
-│   ├── README.md
-│   ├── src/
-│   ├── sql/
-│   ├── powerbi/
-│   ├── data/
-│   └── docs/
-├── E-Commerce Analytics & Digital Twin — Case Study/
-│   ├── README.md
-│   ├── src/
-│   ├── sql/
-│   ├── powerbi/
-│   ├── data/
-│   └── docs/
-
-
-
-Getting Started
-
-1. Clone the repository:
-2. Create a Python virtual environment:
-3. Activate it:  
-4. Install common dependencies:
-5. Open the relevant project folder and follow its project-specific README.
-
  Skills Demonstrated
 
 - End-to-end data analytics and data-engineering workflow design
@@ -203,9 +166,7 @@ Important Modeling Note
 The digital-twin results in this portfolio are **scenario estimates**, not guaranteed forecasts. Where operational fields were unavailable, assumptions were explicitly defined and documented. Production implementation would require additional dated events, business constraints, financial reconciliation, back-testing, monitoring, and human approval workflows.
 
  Contact
-
 Shil Gawande
-
 - Phone No : 9172937014
 - Email: gawandeshil9@gmail.com
 
